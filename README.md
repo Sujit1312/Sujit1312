@@ -15,5 +15,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/sujit-kale-383775256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sujit-kale-383775256" height="30" width="40" /></a>
+<a href="linkedin.com/in/sujit-kale-383775256" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGlua2VkaW58ZW58MHx8MHx8fDA%3D" alt="linkedin" height="30" width="40" /></a>
 </p>
